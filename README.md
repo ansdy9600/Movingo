@@ -1,4 +1,4 @@
-# final_pjt
+# final_pjt - Movingo
 <!-- 메인 사진 -->
 
 ## 1. 팀원 정보 및 업무 분담 내역
